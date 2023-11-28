@@ -1,6 +1,6 @@
 # Hi there
 
-- My name is Amy-Rose
+- My name is Amy-Rose 🌹
 - I'm a firstyear student currently studying Computer Science
 - I'm currently learning HTML, CSS, and C#
 - Currently developing some HTML themes for tumblr blogs 👀
